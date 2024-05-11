@@ -2,7 +2,7 @@
 
 
 # morseCode
-I saw a video where someone had a keyboard with only one key plugged into their computer, and they were able to type out the full alphabet using just morse code. I decided I wanted to try building this using just an OLED screen and Arduino Nano. 
+I saw a video where someone had a keyboard with only one key plugged into their computer, and they were able to type out the full alphabet using just morse code. I decided I wanted to try building this using just an OLED screen and Arduino Nano. This is also something I could use in the future when I would like to save strings on a display and only want to use one button.
 
 
 Video Demonstration: 
